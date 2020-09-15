@@ -1,2 +1,2 @@
-# ül 1 lahendus
+# ül 1.1 lahendus
 print("Tere, maailm!")
